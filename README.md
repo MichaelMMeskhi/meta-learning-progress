@@ -10,7 +10,7 @@ The goal of this repository is to become the center of information for anything 
 
 ## Table of contents
 
-#### 1- Topics
+#### 1- Meta-Learning Theory
 
 ##### Section A: Meta-Learning in Machine Learning 
 
@@ -27,18 +27,36 @@ The goal of this repository is to become the center of information for anything 
 - [Meta-Learning Systems]()
 - [Ranking Algorithms]()
 
+##### Section C: Learning to Learn 
+
+- [How Systems Learn]()
+- [Cognitive Learning Methods]()
+
 #### 2- Algorithms
 
-- [MAML]()
-- [Reptile]()
-- [Meta-SGD]()
-- ADD MORE
+<!--- Model Agnostic Meta-Learning
+	- [Paper]()
+	- [Code]()
+- Reptile
+	- [Paper]()
+	- [Code]()
+- Meta-SGD
+	- [Paper]()
+	- [Code]()-->
+
+- [Model Agnostic]()
+- [Model Based]()
+- [Learning Systems]()
+- [Classical Machine Learning]()
 
 #### 3- Research Problems
 
+**Hot problems**:
+
 - [Meta-Feature Extraction]()
 - [Learning Algorithm Ranking]()
-- ADD MORE
+
+*Click [here]() for a complete list of research problems related/involving to meta-learning.
 
 ### Contributing
 
@@ -64,8 +82,5 @@ I welcome anyone willing to work with me on keeping this repository up to date a
 
 These are tasks and datasets that are still missing:
 
-- Research Problems
-- Algorithms
-- Links and Resources
-- Community
+- TODO
 
