@@ -32,11 +32,13 @@ The goal of this repository is to become the center of information for anything 
 - [MAML]()
 - [Reptile]()
 - [Meta-SGD]()
+- ADD MORE
 
 #### 3- Research Problems
 
 - [Meta-Feature Extraction]()
 - [Learning Algorithm Ranking]()
+- ADD MORE
 
 ### Contributing
 
@@ -62,5 +64,8 @@ I welcome anyone willing to work with me on keeping this repository up to date a
 
 These are tasks and datasets that are still missing:
 
-- TODO
+- Research Problems
+- Algorithms
+- Links and Resources
+- Community
 
