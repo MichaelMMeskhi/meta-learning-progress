@@ -1,5 +1,7 @@
 # Tracking Progress in Meta-Learning
 
+![Metaleanring](./resources/img/metalearning.png)
+
 ## Description
 
 
