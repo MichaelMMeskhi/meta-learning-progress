@@ -84,5 +84,7 @@ I welcome anyone willing to work with me on keeping this repository up to date a
 
 These are tasks and datasets that are still missing:
 
-- TODO
-
+- Add community rules
+- Add contribution rules
+- Create road map for this repo
+- TODO ADD MORE ITEMS		
