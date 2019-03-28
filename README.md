@@ -12,7 +12,7 @@ The goal of this repository is to become the center of information for anything 
 
 ## Table of contents
 
-#### 1- Meta-Learning Theory
+#### 1. Meta-Learning Theory
 
 ##### Section A: Meta-Learning in Machine Learning 
 
@@ -34,7 +34,7 @@ The goal of this repository is to become the center of information for anything 
 - [How Systems Learn](./theory/sectionC/README.md)
 - [Cognitive Learning Methods](./theory/sectionC/README.md)
 
-#### 2- Algorithms
+#### 2. Algorithms
 
 <!--- Model Agnostic Meta-Learning
 	- [Paper]()
@@ -51,7 +51,7 @@ The goal of this repository is to become the center of information for anything 
 - [Learning Systems](./algorithms/README.md)
 - [Classical Machine Learning](./algorithms/README.md)
 
-#### 3- Research Problems
+#### 3. Research Problems
 
 **Hot problems**:
 
