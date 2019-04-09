@@ -34,7 +34,7 @@ The goal of this repository is to become the center of information for anything 
 - [How Systems Learn](./theory/sectionC/README.md)
 - [Cognitive Learning Methods](./theory/sectionC/README.md)
 
-#### 2. Algorithms
+#### 2. Code & Tutorials
 
 <!--- Model Agnostic Meta-Learning
 	- [Paper]()
@@ -60,21 +60,33 @@ The goal of this repository is to become the center of information for anything 
 
 *Click [here]() for a complete list of research problems related/involving to meta-learning.
 
+
+#### 4. Researchers & Labs
+
+* [Ricardo Vilalta](), University of Houston, [Pattern Analysis Lab]()
+* [Joaquin Vanschoren](), Eindhoven University of Technology, [OpenML](openml.org)
+* [Chrisotpher Giraud-Carrier](), Brigham Young University, [BYM-DML]()
+* [Chelsa Finn](http://people.eecs.berkeley.edu/~cbfinn/), University of California at Berkeley
+* [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), Princeton University
+* [Hugo Larochelle](https://ai.google/research/people/105144), Google Brain
+* [Youssef Drissi](), IBM, [AI Research Lab]()
+* [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), DeepMind
+
 ### Contributing
 
 #### Guidelines
 
-- **Results** &nbsp; Results reported in published papers are preferred; an exception may be made for influential preprints.
+- **Theory** &nbsp; 
 
-- **Datasets** &nbsp; Datasets should have been used for evaluation in at least one published paper besides the one that introduced the dataset.
-
-- **Code** &nbsp; We recommend to add a link to an implementation 
+- **Code & Tutorials** &nbsp; We recommend to add a link to an implementation 
 if available. You can add a `Code` column (see below) to the table if it does not exist.
 In the `Code` column, indicate an official implementation with [Official](http://link_to_implementation).
 If an unofficial implementation is available, use [Link](http://link_to_implementation) (see below).
 If no implementation is available, you can leave the cell empty.
 
 - **Research Problems** &nbsp; Problems listed in the table of contents are the most important/hot problems out there. For other problems please post them in the research folder README and on our [Reddit page](https://www.reddit.com/r/MetaLearningML/).
+
+- **Researchers & Labs** &nbsp; 
 
 ### Collaborations
 
@@ -86,6 +98,5 @@ These are tasks and datasets that are still missing:
 
 - Add community rules
 - Add contribution rules
-- Create researchers page
-- [Create road map for this repo)[]
+- Create road map for this repo
 - TODO ADD MORE ITEMS		
