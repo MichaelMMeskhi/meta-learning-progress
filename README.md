@@ -76,17 +76,13 @@ The goal of this repository is to become the center of information for anything 
 
 #### Guidelines
 
-- **Theory** &nbsp; 
+- **Theory** &nbsp; Add papers, blog posts, and books related to each theory topic mentioned above. To introduce a new theory topic, please have ready resources available when doing so.
 
-- **Code & Tutorials** &nbsp; We recommend to add a link to an implementation 
-if available. You can add a `Code` column (see below) to the table if it does not exist.
-In the `Code` column, indicate an official implementation with [Official](http://link_to_implementation).
-If an unofficial implementation is available, use [Link](http://link_to_implementation) (see below).
-If no implementation is available, you can leave the cell empty.
+- **Code & Tutorials** &nbsp; Add any code tutorials, slideshows, videos, etc... that can serve as a learning guide to meta-learning related problems.
 
 - **Research Problems** &nbsp; Problems listed in the table of contents are the most important/hot problems out there. For other problems please post them in the research folder README and on our [Reddit page](https://www.reddit.com/r/MetaLearningML/).
 
-- **Researchers & Labs** &nbsp; 
+- **Researchers & Labs** &nbsp; Add any researcher/lab that works on any of the aforementioned research problems. Use `[Researcher Name], [University/Company], [Website]`.
 
 ### Collaborations
 
@@ -98,5 +94,8 @@ These are tasks and datasets that are still missing:
 
 - Add community rules
 - Add contribution rules
-- Create road map for this repo
-- TODO ADD MORE ITEMS		
+- Create road map for this repo		
+
+### Acknowledgments
+
+This repository was inspired by [awesome-meta-learning](https://github.com/dragen1860/awesome-meta-learning) and [NLP-Progress](https://github.com/sebastianruder/NLP-progress/blob/master/README.md). All work here is open source and copy right free. The goal is to help the research community prosper and communicate better.
