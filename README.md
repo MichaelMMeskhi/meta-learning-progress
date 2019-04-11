@@ -18,7 +18,8 @@ The goal of this repository is to become the center of information for anything 
 - [Code, Datasets and Software](#code,-datasets-and-software)
 - [Researchers and Labs](#researchers-and-labs)
 - [Resources for Students](#resources-for-students)
-- [Misc. Resources](#misc.-resources)
+- [Collaborations](#collaborations)
+- [Wish List](#wish-list)
 
 
 # Books
@@ -38,11 +39,20 @@ The goal of this repository is to become the center of information for anything 
 
 
 # Tutorials, Blogs and Talks
+Most recent or highest impact carrying guides on practical meta-learning.
+
+- [Meta-Learning](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf) - Author: Vanschoren, J. (2018)
+- [Metalearning - A Tutorial](https://www.icmla-conference.org/icmla08/slides2.pdf) - Author: Giraud Carrier, C. (2008)
+- [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - Author: Weng, L. (2018)
+
+# Code, Datasets and Software
+Code usually is from papers mentioned above or other popular Github repositories.
+
+- [Model-Agnostic Meta-Learning](https://github.com/cbfinn/maml) - Author: Finn, C.
+- [Reptile](https://github.com/openai/supervised-reptile) - Author: OpenAI
 
 
-
-
-### Researchers and Labs
+# Researchers and Labs
 The following is a list of prominent and active researchers working on meta-learning across the world:
 
 * [Ricardo Vilalta](https://www.uh.edu/~rvilalta/), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
@@ -54,6 +64,12 @@ The following is a list of prominent and active researchers working on meta-lear
 * [Youssef Drissi](https://ibm.academia.edu/YoussefDrissi), IBM, [AI Research Lab](https://ibm.academia.edu/YoussefDrissi)
 * [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), DeepMind
 * [Antreas Antoniou](https://antreasantoniou.github.io/), University of Edinburgh, [BayesWatch](https://www.bayeswatch.com/)
+
+# Resources for Students
+
+One of the best resources I have found for graduate students is [this list](http://richb.rice.edu/signal-processing/research-resources/) compiled by a professor at Rice Univeristy. 
+
+<hr>
 
 ### Collaborations
 
