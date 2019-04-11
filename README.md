@@ -12,77 +12,48 @@ The goal of this repository is to become the center of information for anything 
 
 ## Table of contents
 
-#### 1. Meta-Learning Theory
-
-##### Section A: Meta-Learning in Machine Learning 
-
-- [Deep Learning](./theory/sectionA/README.md)
-- [Transfer Learning](./theory/sectionA/README.md)
-- [Supervised Learning](./theory/sectionA/README.md)
-- [Unsupervised Learning](./theory/sectionA/README.md)
-- [Reinforcement Learning](./theory/sectionA/README.md)
-- [Topological Data Analysis](./theory/sectionA/README.md)
-
-##### Section B: Meta-Learning Specific
-
-- [Meta-Features](./theory/sectionB/README.md)
-- [Meta-Learning Systems](./theory/sectionB/README.md)
-- [Ranking Algorithms](./theory/sectionB/README.md)
-
-##### Section C: Learning to Learn 
-
-- [How Systems Learn](./theory/sectionC/README.md)
-- [Cognitive Learning Methods](./theory/sectionC/README.md)
-
-#### 2. Code & Tutorials
-
-<!--- Model Agnostic Meta-Learning
-	- [Paper]()
-	- [Code]()
-- Reptile
-	- [Paper]()
-	- [Code]()
-- Meta-SGD
-	- [Paper]()
-	- [Code]()-->
-
-- [Model Agnostic](./algorithms/README.md)
-- [Model Based](./algorithms/README.md)
-- [Learning Systems](./algorithms/README.md)
-- [Classical Machine Learning](./algorithms/README.md)
-
-#### 3. Research Problems
-
-**Hot problems**:
-
-- [Meta-Feature Extraction](./research/README.md)
-- [Learning Algorithm Ranking](./research/README.md)
-
-*Click [here]() for a complete list of research problems related/involving to meta-learning.
+- [Books](#books)
+- [Papers](#papers)
+- [Tutorials, Blogs and Talks](#tutorials,-blogs-and-talks)
+- [Code, Datasets and Software](#code,-datasets-and-software)
+- [Researchers and Labs](#researchers-and-labs)
+- [Resources for Students](#resources-for-students)
+- [Misc. Resources](#misc.-resources)
 
 
-#### 4. Researchers & Labs
+# Books
 
-* [Ricardo Vilalta](), University of Houston, [Pattern Analysis Lab]()
-* [Joaquin Vanschoren](), Eindhoven University of Technology, [OpenML](openml.org)
+**Theory**
+
+- [Metalearning: Applications to Data Mining](https://www.springer.com/us/book/9783540732624) - Authors: Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. (2009)
+- [Learning to Learn](https://www.amazon.com/Learning-Learn-Sebastian-Thrun/dp/0792380479) - Author: Thrun, S. (1998)
+
+
+# Papers
+
+**Recent Top Impact**
+
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) - Authors: Finn, C., Abbeel, P., Levine, S. (2017)
+- [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) - Authors: Nichol, A., Achiam, J., Schulman, J. (2018)
+
+
+# Tutorials, Blogs and Talks
+
+
+
+
+### Researchers and Labs
+The following is a list of prominent and active researchers working on meta-learning across the world:
+
+* [Ricardo Vilalta](https://www.uh.edu/~rvilalta/), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
+* [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/#about), Eindhoven University of Technology, [OpenML](openml.org)
 * [Chrisotpher Giraud-Carrier](), Brigham Young University, [BYM-DML]()
 * [Chelsa Finn](http://people.eecs.berkeley.edu/~cbfinn/), University of California at Berkeley
 * [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), Princeton University
 * [Hugo Larochelle](https://ai.google/research/people/105144), Google Brain
-* [Youssef Drissi](), IBM, [AI Research Lab]()
+* [Youssef Drissi](https://ibm.academia.edu/YoussefDrissi), IBM, [AI Research Lab](https://ibm.academia.edu/YoussefDrissi)
 * [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), DeepMind
-
-### Contributing
-
-#### Guidelines
-
-- **Theory** &nbsp; Add papers, blog posts, and books related to each theory topic mentioned above. To introduce a new theory topic, please have ready resources available when doing so.
-
-- **Code & Tutorials** &nbsp; Add any code tutorials, slideshows, videos, etc... that can serve as a learning guide to meta-learning related problems.
-
-- **Research Problems** &nbsp; Problems listed in the table of contents are the most important/hot problems out there. For other problems please post them in the research folder README and on our [Reddit page](https://www.reddit.com/r/MetaLearningML/).
-
-- **Researchers & Labs** &nbsp; Add any researcher/lab that works on any of the aforementioned research problems. Use `[Researcher Name], [University/Company], [Website]`.
+* [Antreas Antoniou](https://antreasantoniou.github.io/), University of Edinburgh, [BayesWatch](https://www.bayeswatch.com/)
 
 ### Collaborations
 
