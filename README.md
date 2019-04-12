@@ -91,11 +91,10 @@ I welcome anyone willing to work with me on keeping this repository up to date a
 
 ### Wish list
 
-These are tasks and datasets that are still missing:
+Things that everyone would like to see here:
 
-- Add community rules
-- Add contribution rules
-- Create road map for this repo		
+- Create road map for this repo	
+- Add more information	
 
 ### Acknowledgments
 
