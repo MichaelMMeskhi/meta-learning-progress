@@ -41,9 +41,20 @@ The goal of this repository is to become the center of information for anything 
 # Tutorials, Blogs and Talks
 Most recent or highest impact carrying guides on practical meta-learning.
 
+**Tutorials**
+
 - [Meta-Learning](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf) - Author: Vanschoren, J. (2018)
 - [Metalearning - A Tutorial](https://www.icmla-conference.org/icmla08/slides2.pdf) - Author: Giraud Carrier, C. (2008)
 - [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - Author: Weng, L. (2018)
+
+**Blog Posts**
+
+- [Paper Review: Meta-Transfer-Learning](https://medium.com/@mikhailmekhedkinmeskhi/meta-transfer-learning-6a02160ddaad) - Author: Meskhi, M M. (2019)
+
+
+**Talks**
+
+- [Introduction to Meta-Learning]() at the [Houston Machine Learning Meet Up](https://www.meetup.com/Houston-Machine-Learning/) - Author: Meskhi, M M. (Upcoming 2019)
 
 # Code, Datasets and Software
 Code usually is from papers mentioned above or other popular Github repositories.
@@ -55,6 +66,7 @@ Code usually is from papers mentioned above or other popular Github repositories
 # Researchers and Labs
 The following is a list of prominent and active researchers working on meta-learning across the world:
 
+* [Mikhail M.Meskhi](https://michaelmmeskhi.github.io), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
 * [Ricardo Vilalta](https://www.uh.edu/~rvilalta/), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
 * [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/#about), Eindhoven University of Technology, [OpenML](openml.org)
 * [Chrisotpher Giraud-Carrier](), Brigham Young University, [BYM-DML]()
