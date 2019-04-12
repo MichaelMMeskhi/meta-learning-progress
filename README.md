@@ -81,7 +81,7 @@ The following is a list of prominent and active researchers working on meta-lear
 
 # Resources for Students
 
-One of the best resources I have found for graduate students is [this list](http://richb.rice.edu/signal-processing/research-resources/) compiled by a professor at Rice Univeristy. 
+One of the best resources I have found for graduate students on how to deal with Ph.D. related stress, how to conduct good research, or how to write and read papers and much more can be found in [this list](http://richb.rice.edu/signal-processing/research-resources/) compiled by a professor at Rice Univeristy. 
 
 <hr>
 
