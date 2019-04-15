@@ -30,6 +30,10 @@ The goal of this repository is to become the center of information for anything 
 - [Learning to Learn](https://www.amazon.com/Learning-Learn-Sebastian-Thrun/dp/0792380479) - Author: Thrun, S. (1998)
 
 
+**Practical**
+
+- [Hands-On Meta Learning with Python](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - Author: Ravichandiran, S. (2018)
+
 # Papers
 
 **Recent Top Impact**
@@ -61,6 +65,7 @@ Code usually is from papers mentioned above or other popular Github repositories
 
 - [Model-Agnostic Meta-Learning](https://github.com/cbfinn/maml) - Author: Finn, C.
 - [Reptile](https://github.com/openai/supervised-reptile) - Author: OpenAI
+- [Hands-On Meta Learning with Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python) - Author: Ravichandiran, S. (2018)
 
 
 # Researchers and Labs
