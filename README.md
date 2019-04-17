@@ -15,7 +15,7 @@ The goal of this repository is to become the center of information for anything 
 - [Books](#books)
 - [Papers](#papers)
 - [Tutorials, Blogs and Talks](#tutorials,-blogs-and-talks)
-- [Code, Datasets and Software](#code,-datasets-and-software)
+- [Code, Datasets and Tools](#code,-datasets-and-software)
 - [Researchers and Labs](#researchers-and-labs)
 - [Resources for Students](#resources-for-students)
 - [Collaborations](#collaborations)
@@ -26,20 +26,20 @@ The goal of this repository is to become the center of information for anything 
 
 **Theory**
 
-- [Metalearning: Applications to Data Mining](https://www.springer.com/us/book/9783540732624) - Authors: Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. (2009)
-- [Learning to Learn](https://www.amazon.com/Learning-Learn-Sebastian-Thrun/dp/0792380479) - Author: Thrun, S. (1998)
+- [Metalearning: Applications to Data Mining](https://www.springer.com/us/book/9783540732624) - *Authors:* Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. (2009)
+- [Learning to Learn](https://www.amazon.com/Learning-Learn-Sebastian-Thrun/dp/0792380479) - *Author:* Thrun, S. (1998)
 
 
 **Practical**
 
-- [Hands-On Meta Learning with Python](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - Author: Ravichandiran, S. (2018)
+- [Hands-On Meta Learning with Python](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - *Author:* Ravichandiran, S. (2018)
 
 # Papers
 
 **Recent Top Impact**
 
-- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) - Authors: Finn, C., Abbeel, P., Levine, S. (2017)
-- [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) - Authors: Nichol, A., Achiam, J., Schulman, J. (2018)
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) - *Authors:* Finn, C., Abbeel, P., Levine, S. (2017)
+- [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) - *Authors:* Nichol, A., Achiam, J., Schulman, J. (2018)
 
 
 # Tutorials, Blogs and Talks
@@ -47,25 +47,32 @@ Most recent or highest impact carrying guides on practical meta-learning.
 
 **Tutorials**
 
-- [Meta-Learning](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf) - Author: Vanschoren, J. (2018)
-- [Metalearning - A Tutorial](https://www.icmla-conference.org/icmla08/slides2.pdf) - Author: Giraud Carrier, C. (2008)
-- [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - Author: Weng, L. (2018)
+- [Meta-Learning](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf) - *Author:* Vanschoren, J. (2018)
+- [Metalearning - A Tutorial](https://www.icmla-conference.org/icmla08/slides2.pdf) - *Author:* Giraud Carrier, C. (2008)
+- [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - *Author:* Weng, L. (2018)
 
 **Blog Posts**
 
-- [Paper Review: Meta-Transfer-Learning](https://medium.com/@mikhailmekhedkinmeskhi/meta-transfer-learning-6a02160ddaad) - Author: Meskhi, M M. (2019)
+- [Paper Review: Meta-Transfer-Learning](https://medium.com/@mikhailmekhedkinmeskhi/meta-transfer-learning-6a02160ddaad) - *Author:* Meskhi, M M. (2019)
 
 
 **Talks**
 
-- [Introduction to Meta-Learning]() at the [Houston Machine Learning Meet Up](https://www.meetup.com/Houston-Machine-Learning/) - Author: Meskhi, M M. (Upcoming 2019)
+- [Introduction to Meta-Learning]() at the [Houston Machine Learning Meet Up](https://www.meetup.com/Houston-Machine-Learning/) - *Author:* Meskhi, M M. (Upcoming 2019)
 
-# Code, Datasets and Software
+# Code, Datasets and Tools
+
+**Code**
+
 Code usually is from papers mentioned above or other popular Github repositories.
 
-- [Model-Agnostic Meta-Learning](https://github.com/cbfinn/maml) - Author: Finn, C.
-- [Reptile](https://github.com/openai/supervised-reptile) - Author: OpenAI
-- [Hands-On Meta Learning with Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python) - Author: Ravichandiran, S. (2018)
+- [Model-Agnostic Meta-Learning](https://github.com/cbfinn/maml) - *Author:* Finn, C.
+- [Reptile](https://github.com/openai/supervised-reptile) - *Author:* OpenAI
+- [Hands-On Meta Learning with Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python) - *Author:* Ravichandiran, S. (2018)
+
+**Tools**
+
+- [OpenML](www.openml.org) - *Description:* Online database and task hosting service. Upload data, define tasks and run the experiments. - *Author:* Vanschoren, J. 
 
 
 # Researchers and Labs
