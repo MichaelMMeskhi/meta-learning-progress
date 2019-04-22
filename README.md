@@ -54,6 +54,9 @@ Most recent or highest impact carrying guides on practical meta-learning.
 **Blog Posts**
 
 - [Paper Review: Meta-Transfer-Learning](https://medium.com/@mikhailmekhedkinmeskhi/meta-transfer-learning-6a02160ddaad) - *Author:* Meskhi, M M. (2019)
+- [An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) - *Author:* Wolf, T. (2018)
+- [Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) - *Author:* Finn, C. (2017)
+- [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - *Author:* Weng, L. (2018)
 
 
 **Talks**
