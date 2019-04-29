@@ -40,10 +40,11 @@ The goal of this repository is to become the center of information for anything 
 
 - [How to train your MAML](https://arxiv.org/pdf/1810.09502.pdf) - *Authors:* Antoniou, A., Edwards, H., Storkey, A. (2019)
 - [Towards learning-to-learn](https://arxiv.org/pdf/1811.00231.pdf) - *Authors:* Lansdell, B. J., Kording, K. P. (2019)
-- [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf) - *Authors:* Google DeepMind (2016)
+- [Probabilistic Mixture of Model-Agnostic Meta-Learners](http://bayesiandeeplearning.org/2018/papers/118.pdf) - *Authors:* Sattigeri, P., Ghosh, S., Kumar, A., Ramamurthy, N. K., Hoffman, S., Padhi, I., Drissi, Y. (2018)
+- [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) - *Authors:* Nichol, A., Achiam, J., Schulman, J. (2018)
 - [A Simple Neural Attentive Meta-Learner](https://arxiv.org/pdf/1707.03141.pdf) - *Authors:* Mishra, N., Rohaninejad, M., Chen, X., Abbeel, A. (2018)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) - *Authors:* Finn, C., Abbeel, P., Levine, S. (2017)
-- [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) - *Authors:* Nichol, A., Achiam, J., Schulman, J. (2018)
+- [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf) - *Authors:* Google DeepMind (2016)
 
 
 # Tutorials, Blogs and Talks
