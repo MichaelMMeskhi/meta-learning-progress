@@ -86,6 +86,7 @@ Code usually is from papers mentioned above or other popular Github repositories
 - [mfe](https://github.com/rivolli/mfe) - *Description:* Meta-Feature Extractor in R. - *Author:* Rivolli, A.
 - [metalearn](https://github.com/byu-dml/metalearn) - *Description:* BYU's python library of useable tools for metalearning. - *Authors:* BYU-DML.
 - [mtlSuite](https://github.com/rgmantovani/mtlSuite) - *Description:* Meta-learning basic suite for machine learning experiments in R. - *Author:* Mantovani, R.
+- [Pymfe](https://github.com/ealcobaca/pymfe) - *Description:* Meta-Feature Extractor in Python. - *Author:* Ealcobaca (2019)
 
 
 # Researchers and Labs
