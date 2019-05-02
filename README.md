@@ -98,6 +98,7 @@ The following is a list of prominent and active researchers working on meta-lear
 * [Chrisotpher Giraud-Carrier](https://cs.byu.edu/faculty/cgc), Brigham Young University, [BYM-DML](http://dml.cs.byu.edu/)
 * [Brandon Schoenfeld](https://github.com/bjschoenfeld), Brigham Young University, [BYM-DML](http://dml.cs.byu.edu/)
 * [Youssef Drissi](https://ibm.academia.edu/YoussefDrissi), IBM, [AI Research Lab](https://ibm.academia.edu/YoussefDrissi)
+* [Prasanna Sattigeri](https://researcher.watson.ibm.com/researcher/view.php?person=us-psattig), IBM, [AI Research Lab](https://researcher.watson.ibm.com/researcher/view.php?person=us-psattig)
 * [Antreas Antoniou](https://antreasantoniou.github.io/), University of Edinburgh, [BayesWatch](https://www.bayeswatch.com/)
 * [Chelsa Finn](http://people.eecs.berkeley.edu/~cbfinn/), University of California at Berkeley
 * [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/), Princeton University
