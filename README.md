@@ -63,6 +63,7 @@ Most recent or highest impact carrying guides on practical meta-learning.
 - [An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) - *Author:* Wolf, T. (2018)
 - [Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) - *Author:* Finn, C. (2017)
 - [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - *Author:* Weng, L. (2018)
+- [What’s New in Deep Learning Research: Understanding Meta-Learning](https://towardsdatascience.com/whats-new-in-deep-learning-research-understanding-meta-learning-91fef1295660) - *Author:* Rodriguez, J. (2018)
 
 
 **Talks**
