@@ -96,6 +96,7 @@ The following is a list of prominent and active researchers working on meta-lear
 * [Mikhail M.Meskhi](https://michaelmmeskhi.github.io), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
 * [Ricardo Vilalta](https://www.uh.edu/~rvilalta/), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
 * [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/#about), Eindhoven University of Technology, [OpenML](openml.org)
+* [Matthias Feurer](https://ml.informatik.uni-freiburg.de/people/feurer/index.html), University of Freiburg, [Machine Learning Lab](https://ml.informatik.uni-freiburg.de/index.html)
 * [Chrisotpher Giraud-Carrier](https://cs.byu.edu/faculty/cgc), Brigham Young University, [BYM-DML](http://dml.cs.byu.edu/)
 * [Brandon Schoenfeld](https://github.com/bjschoenfeld), Brigham Young University, [BYM-DML](http://dml.cs.byu.edu/)
 * [Youssef Drissi](https://ibm.academia.edu/YoussefDrissi), IBM, [AI Research Lab](https://ibm.academia.edu/YoussefDrissi)
