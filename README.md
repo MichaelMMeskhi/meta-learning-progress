@@ -44,6 +44,7 @@ The goal of this repository is to become the center of information for anything 
 - [On First-Order Meta-Learning Algorithms](https://arxiv.org/pdf/1803.02999.pdf) - *Authors:* Nichol, A., Achiam, J., Schulman, J. (2018)
 - [A Simple Neural Attentive Meta-Learner](https://arxiv.org/pdf/1707.03141.pdf) - *Authors:* Mishra, N., Rohaninejad, M., Chen, X., Abbeel, A. (2018)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) - *Authors:* Finn, C., Abbeel, P., Levine, S. (2017)
+- [Meta-SGD: Learning to Learn Quickly for Few-Shot Learning](https://arxiv.org/pdf/1707.09835) - *Authors:* Zhenguo, L., Fengwei, Z., Fei, C., Hang, L. (2017)
 - [Learning to learn by gradient descent by gradient descent](https://arxiv.org/pdf/1606.04474.pdf) - *Authors:* Google DeepMind (2016)
 
 
