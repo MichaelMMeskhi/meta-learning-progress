@@ -53,10 +53,11 @@ Most recent or highest impact carrying guides on practical meta-learning.
 
 **Tutorials**
 
+- [OpenML Tutorials](https://openml.github.io/openml-python/master/index.html) - *Author:* The OpenML Team (2019)
 - [Meta-Learning](https://www.ml4aad.org/wp-content/uploads/2018/09/chapter2-metalearning.pdf) - *Author:* Vanschoren, J. (2018)
+- [Intro to AutoML](https://www.automl.org/wp-content/uploads/2018/12/AutoML-Tutorial-NeurIPS2018-MetaLearning.pdf) - *Authors:* Vanschoren, J., Hutter, F. (2018)
 - [Metalearning - A Tutorial](https://www.icmla-conference.org/icmla08/slides2.pdf) - *Author:* Giraud Carrier, C. (2008)
 - [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html) - *Author:* Weng, L. (2018)
-- [OpenML Tutorials](https://openml.github.io/openml-python/master/index.html) - *Author:* The OpenML Team (2019)
 
 **Blog Posts**
 
