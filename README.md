@@ -70,7 +70,7 @@ Most recent or highest impact carrying guides on practical meta-learning.
 
 **Talks**
 
-- [Introduction to Meta-Learning](https://www.meetup.com/Houston-Machine-Learning/events/261384583/) at the [Houston Machine Learning Meet Up](https://www.meetup.com/Houston-Machine-Learning/) - *Author:* Meskhi, M M. (2019)
+- [Introduction to Meta-Learning](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/intro_learning_to_learn.pdf) at the [Houston Machine Learning Meet Up](https://www.meetup.com/Houston-Machine-Learning/events/261384583/) - *Author:* Meskhi, M M. (2019)
 
 # Code, Datasets and Tools
 
