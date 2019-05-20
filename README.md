@@ -81,6 +81,7 @@ Code usually is from papers mentioned above or other popular Github repositories
 - [Model-Agnostic Meta-Learning](https://github.com/cbfinn/maml) - *Author:* Finn, C.
 - [Reptile](https://github.com/openai/supervised-reptile) - *Author:* OpenAI
 - [Hands-On Meta Learning with Python](https://github.com/sudharsan13296/Hands-On-Meta-Learning-With-Python) - *Author:* Ravichandiran, S. (2018)
+- [Meta-Learning with Latent Embedding Optimization](https://github.com/deepmind/leo) - *Author:* DeepMind (2018)
 - [How to train your MAML](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - *Author:* Antoniou, A. (2019)
 
 **Tools**
