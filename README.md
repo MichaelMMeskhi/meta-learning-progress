@@ -35,6 +35,9 @@ The goal of this repository is to become the center of information for anything 
 - [Hands-On Meta Learning with Python](https://www.amazon.com/Hands-Meta-Learning-Python-TensorFlow-ebook/dp/B07KJJHYKF) - *Author:* Ravichandiran, S. (2018)
 
 # Papers
+**Paper Library**
+
+Click [here]() to see a wider selection of important meta-learning literature.
 
 **Recent Top Impact**
 
