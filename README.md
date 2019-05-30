@@ -131,7 +131,8 @@ I welcome anyone willing to work with me on keeping this repository up to date a
 Things that everyone would like to see here:
 
 - Create road map for this repo	
-- Add more information	
+- Create research topic list
+- Add more topics
 
 ### Acknowledgments
 
