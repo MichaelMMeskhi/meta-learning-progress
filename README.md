@@ -37,7 +37,7 @@ The goal of this repository is to become the center of information for anything 
 # Papers
 **Paper Library**
 
-Click [here](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/combined_metalearning.bib) to see a wider selection of important meta-learning literature.
+Click [here](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resources/files/Meta_learning_Literature.pdf) to see a wider selection of important meta-learning literature.
 
 **Recent Top Impact**
 
