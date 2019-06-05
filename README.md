@@ -115,7 +115,7 @@ The following is a list of prominent and active researchers working on meta-lear
 * [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), DeepMind
 
 
-# Resources for Students
+# Resources for Graduate Students
 
 * One of the best resources I have found for graduate students on how to deal with Ph.D. related stress, how to conduct good research, or how to write and read papers and much more can be found in [this list](http://richb.rice.edu/signal-processing/research-resources/) compiled by a professor at Rice Univeristy. 
 * Sometimes it is hard to focus or feel motivated due to various reasons. But do not feel down my dear colleagues, read [this](https://academia.stackexchange.com/questions/87668/how-do-you-come-to-terms-with-the-fact-that-you-might-never-be-among-the-best-in) and keep on working hard!
