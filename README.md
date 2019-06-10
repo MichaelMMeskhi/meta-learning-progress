@@ -122,7 +122,7 @@ The following is a list of prominent and active researchers working on meta-lear
 
 <hr>
 
-### Collaborations
+### Contributions
 
 I welcome anyone willing to work with me on keeping this repository up to date and as well as working on publishing/experimenting on research problems mentioned above. Just send me an email and we can take it from there.
 
