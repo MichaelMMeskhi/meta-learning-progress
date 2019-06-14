@@ -7,7 +7,7 @@
 
 Meta-Learning is gaining popularity in Machine Learning as a progressive step to Artificial General Intelligence (AGI). Lots of work has been done in the past 2 decades in Meta-Learning. This repository aims to track the progress in Meta-Learning (MtL) and give an overview of the state-of-the-art (SOTA) across the most common MtL problems and research topics. It aims to cover both traditional and core MtL tasks.
 
-The goal of this repository is to become the center of information for anything related to Meta-Learning. We are also building a online community on our [Reddit page](https://www.reddit.com/r/MetaLearningML/).
+The goal of this repository is to become the center of information for anything related to Meta-Learning. We are also building a online community on our [Reddit page](https://www.reddit.com/r/MetaLearningML/). Please join the subreddit to spread news and articles related to meta-learning.
 
 
 ## Table of contents
