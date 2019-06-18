@@ -87,6 +87,14 @@ Code usually is from papers mentioned above or other popular Github repositories
 - [Meta-Learning with Latent Embedding Optimization](https://github.com/deepmind/leo) - *Author:* DeepMind (2018)
 - [How to train your MAML](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - *Author:* Antoniou, A. (2019)
 
+**Datasets**
+
+Popular datasets used in publications and algorithm efficacy testing.
+
+- [Mini-Imagenet](https://drive.google.com/file/d/1qQCoGoEJKUCQkk8roncWH7rhPN7aMfBr/view)
+- [Omniglot](https://github.com/brendenlake/omniglot)
+- [MNIST](http://yann.lecun.com/exdb/mnist/)
+
 **Tools**
 
 - [OpenML-Python](https://github.com/openml/openml-python) - *Description:* Meta-data, flows, tasks & experiments. - *Author:* Vanschoren, J. 
