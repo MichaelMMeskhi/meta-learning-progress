@@ -16,7 +16,7 @@ The goal of this repository is to become the center of information for anything 
 - [Papers](#papers)
 - [Tutorials, Blogs and Talks](#tutorials,-blogs-and-talks)
 - [Code, Datasets and Tools](#code,-datasets-and-software)
-- [Researchers and Labs](#researchers-and-labs)
+- [Researchers, Labs and Workships](#researchers-labs-and-workshops)
 - [Resources for Students](#resources-for-students)
 - [Collaborations](#collaborations)
 - [Wish List](#wish-list)
@@ -105,7 +105,7 @@ Popular datasets used in publications and algorithm efficacy testing.
 - [pymfe](https://github.com/ealcobaca/pymfe) - *Description:* Meta-Feature Extractor in Python. - *Author:* Ealcobaca (2019)
 
 
-# Researchers and Labs
+# Researchers, Labs and Workshops
 The following is a list of prominent and active researchers working on meta-learning across the world:
 
 * [Mikhail M.Meskhi](https://michaelmmeskhi.github.io), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
@@ -122,6 +122,10 @@ The following is a list of prominent and active researchers working on meta-lear
 * [Hugo Larochelle](https://ai.google/research/people/105144), Google Brain
 * [Adam Santoro](https://scholar.google.com/citations?hl=en&user=evIkDWoAAAAJ&view_op=list_works&sortby=pubdate), DeepMind
 
+
+**Workshops**
+
+- [Meta-learning Workshop](http://metalearning.ml/2019/#schedule) - *Description:* NIPS 2019, Vancouver, Canada
 
 # Resources for Graduate Students
 
