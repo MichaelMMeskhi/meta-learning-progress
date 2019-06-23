@@ -144,6 +144,8 @@ Things that everyone would like to see here:
 
 - Create road map for this repo	
 - Create research topic list
+- Add more datasets that are standard in publications
+- Add more regarding meta-learning research directions
 - Add more topics
 
 ### Acknowledgments
