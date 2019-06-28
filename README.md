@@ -94,6 +94,7 @@ Popular datasets used in publications and algorithm efficacy testing.
 - [Mini-Imagenet](https://drive.google.com/file/d/1qQCoGoEJKUCQkk8roncWH7rhPN7aMfBr/view)
 - [Omniglot](https://github.com/brendenlake/omniglot)
 - [MNIST](http://yann.lecun.com/exdb/mnist/)
+- [SVHN](http://ufldl.stanford.edu/housenumbers/)
 
 **Tools**
 
