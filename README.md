@@ -41,6 +41,7 @@ Click [here](https://github.com/MichaelMMeskhi/MtL-Progress/blob/master/resource
 
 **Recent Top Impact**
 
+- [Online Meta-Learning](https://arxiv.org/pdf/1902.08438.pdf) - *Authors:* Finn, C., Rajeswaran, A., Kakade, S., Levine, S. (2019)
 - [How to train your MAML](https://arxiv.org/pdf/1810.09502.pdf) - *Authors:* Antoniou, A., Edwards, H., Storkey, A. (2019)
 - [Towards learning-to-learn](https://arxiv.org/pdf/1811.00231.pdf) - *Authors:* Lansdell, B. J., Kording, K. P. (2019)
 - [Probabilistic Mixture of Model-Agnostic Meta-Learners](http://bayesiandeeplearning.org/2018/papers/118.pdf) - *Authors:* Sattigeri, P., Ghosh, S., Kumar, A., Ramamurthy, N. K., Hoffman, S., Padhi, I., Drissi, Y. (2018)
