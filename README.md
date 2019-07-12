@@ -28,7 +28,7 @@ The goal of this repository is to become the center of information for anything 
 
 - [Metalearning: Applications to Data Mining](https://www.springer.com/us/book/9783540732624) - *Authors:* Brazdil, P., Giraud Carrier, C., Soares, C., Vilalta, R. (2009)
 - [Learning to Learn](https://www.amazon.com/Learning-Learn-Sebastian-Thrun/dp/0792380479) - *Author:* Thrun, S. (1998)
-
+- [Automated Machine Learning](https://www.springer.com/us/book/9783030053178) - *Authors:* Hutter, F., Lars, K., Vanschoren, J. (2019)
 
 **Practical**
 
@@ -114,6 +114,7 @@ The following is a list of prominent and active researchers working on meta-lear
 * [Mikhail M.Meskhi](https://michaelmmeskhi.github.io), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
 * [Ricardo Vilalta](https://www.uh.edu/~rvilalta/), University of Houston, [Pattern Analysis Lab](https://www.uh.edu/pa-lab/)
 * [Joaquin Vanschoren](https://joaquinvanschoren.github.io/home/#about), Eindhoven University of Technology, [OpenML](openml.org)
+* [Pieter Gijsbers](https://www.linkedin.com/in/pgijsbers/?originalSubdomain=nl), Eindhoven University of Technology, [GAMA](https://github.com/PGijsbers/gama)
 * [Matthias Feurer](https://ml.informatik.uni-freiburg.de/people/feurer/index.html), University of Freiburg, [Machine Learning Lab](https://ml.informatik.uni-freiburg.de/index.html)
 * [Chrisotpher Giraud-Carrier](https://cs.byu.edu/faculty/cgc), Brigham Young University, [BYM-DML](http://dml.cs.byu.edu/)
 * [Brandon Schoenfeld](https://github.com/bjschoenfeld), Brigham Young University, [BYM-DML](http://dml.cs.byu.edu/)
