@@ -1,0 +1,31 @@
+---
+title: Contact
+layout: default
+bodyClass: page-contact
+---
+
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Contact</h1>
+        <p>
+          Reach out to us about anything.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      <ul>
+        <li><strong>Email </strong><a href="mailto:{{ site.data.contact.email }}">
+            {{ site.data.contact.email }}</a></li>
+        {% if site.data.contact.address %}
+        <li><strong>Address </strong>{{ site.data.contact.address }}</li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>

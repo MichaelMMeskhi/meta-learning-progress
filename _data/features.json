@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Literature",
+    "link": "https://github.com/MichaelMMeskhi/MtL-Progress-github.io",
+    "description": "A list of must read publications in metalearning.",
+    "image": "images/features/paper.svg"
+  },
+  {
+    "title": "Code",
+    "link": "https://github.com/MichaelMMeskhi/MtL-Progress-github.io",
+    "description": "Open source code/tools for metalearning experiments.",
+    "image": "images/features/github.svg"
+  },
+  {
+    "title": "Community",
+    "link": "https://www.reddit.com/r/MetaLearningML/",
+    "description": "Our community subreddit for discussions in metalearning.",
+    "image": "images/features/reddit.svg"
+  }
+]

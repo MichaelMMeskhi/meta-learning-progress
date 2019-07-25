@@ -1,9 +1,68 @@
-<!doctype html>
-<html>
-  <head>
-    <title>Metalearning ML</title>
-  </head>
-  <body>
-    <p>Metalearning in Machine Learning. Website coming soon!</p>
-  </body>
-</html>
+---
+title: Metalearning
+layout: default
+bodyClass: page-home
+---
+
+<div class="intro pb-4">
+  <div class="container">
+    <h1>Metalearning</h1>
+    <p>Literature, open-source, discussions, and people.</p>
+  </div>
+</div>
+
+<div class="container pt-2">
+  <div class="sub">
+    <div class="sub-box-top">
+      <div class="sub-phone">Become part of the metalearning research</div>
+      <div class="sub-email">community today. Subscribe to our mailing list.  
+        <a href="mailto:{{ site.data.contact.email }}">
+        </a>
+      </div>
+    </div>
+    <div class="sub-box-bottom">
+      <a href="{{site.subscribe}}" class="button">Subscribe</a>
+    </div>
+  </div>
+</div>
+
+<div class="container pt-8 pt-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="title-3 text-dark mb-3">Recent Posts</h2>
+    </div>
+    {% for service in site.services limit:3 %}
+    <div class="col-12 col-md-4 mb-1">
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
+          </h2>
+          <p>{{ service.published }}</p>
+          {{ service.content | markdownify | strip_html | truncate: 100 }}
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+    <div class="col-12 text-center">
+      <a class="button button-primary mt-2" href="{{site.baseurl}}/services">View All Posts</a>
+    </div>
+  </div>
+</div>
+
+<div class="container pt-5 pb-5 pt-md-7 pb-md-7">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <h2 class="title-3 text-dark mb-4">Quick Resources</h2>
+    </div>
+    {% for feature in site.data.features %}
+    <div class="col-12 col-md-6 col-lg-4 mb-2">
+      <div class="feature">
+        {% if feature.image %}<div class="feature-image"><a  href="{{ feature.link }}"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></div> {% endif %}</a>
+        <h2 class="feature-title">{{ feature.title }}</h2>
+        <div class="feature-content">{{ feature.description }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

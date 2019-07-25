@@ -1,0 +1,36 @@
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+subscribe: 'http://www.google.com'
+owner: Pattern Analysis Lab
+title: 'Metalearning'
+
+collections:
+  services:
+    output: true
+    permalink: /services/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+  testimonials:
+    output: true
+    permalink: /testimonials/:path/
+
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+      bodyClass: page-services-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+google_analytics_id: null
+
+plugins:
+  - jekyll-environment-variables
