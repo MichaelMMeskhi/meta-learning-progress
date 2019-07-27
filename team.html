@@ -33,9 +33,19 @@ bodyClass: page-team-list
         {% endif %}
         <div class="team-meta">
           <h2 class="team-name">{{ team.title }}</h2>
-          <p class="team-description">{{ team.jobtitle }}</p>
+          <p class="team-description">{{ team.jobtitle }} at {{ team.organization }}</p>
+          <p class="team-description" style="color: #BC2828">{{ team.research }}</p>
           {% if team.linkedinurl %}
-          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
+          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> /
+          {% endif %}
+          {% if team.github %}
+          <a target="_blank" href="{{ team.github }}">Github</a> /
+          {% endif %}
+          {% if team.website %}
+          <a target="_blank" href="{{ team.website }}">Website</a> /
+          {% endif %}
+          {% if team.email %}
+          <a target="_blank" href="mailto:{{ team.email }}">Email</a>
           {% endif %}
         </div>
         <div class="team-content">{{ team.content }}</div>

@@ -2340,7 +2340,7 @@ a.text-dark:hover, a.text-dark:focus { color: #1d2124 !important; }
 
 .logo { display: none; }
 @media (min-width: 576px) { .logo { display: block; width: 120px; } }
-.logo img { width: 100%; height: auto; }
+.logo img { width: 150%; height: auto; }
 .logo a { display: block; width: 100%; height: 100%; }
 
 .logo-mobile { display: block; width: 30px; }
@@ -2462,10 +2462,10 @@ ul.social li a span { font-size: 24px; }
 .feature .feature-content p strong { color: #BC2828; text-transform: uppercase; font-size: 0.8rem; font-weight: 700; }
 .feature .feature-content p em { color: #635B5B; font-style: normal; }
 
-.page-home { background-image: url("../images/home.jpg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-home { background-image: url("../images/m.svg"); background-repeat: no-repeat; background-size: 100%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-home { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-home { background-size: 70%; background-position: 100% -50px; } }
-@media (min-width: 992px) { .page-home { background-size: 60%; background-position: 100% -70px; } }
+@media (min-width: 992px) { .page-home { background-size: 30%; background-position: 85% 50px; } }
 .page-home .sub { position: relative; overflow: hidden; background-color: #ffffff; border-radius: 4px; box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07); width: 100%; color: #BC2828; display: flex; align-items: flex-start; flex-direction: column; }
 @media (min-width: 576px) { .page-home .sub { align-items: center; flex-direction: row; width: 90%; } }
 @media (min-width: 768px) { .page-home .sub { width: 70%; } }
@@ -2493,10 +2493,10 @@ ul.social li a span { font-size: 24px; }
 .team-summary .team-meta p { margin: 0; }
 .team-summary .team-content { flex: 1 0 100%; }
 
-.page-team-list { background-image: url("../images/2.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-team-list { background-image: url("../images/a.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-team-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-team-list { background-size: 85%; background-position: 199px -80px; } }
-@media (min-width: 992px) { .page-team-list { background-size: 40%; background-position: 80% 0px; } }
+@media (min-width: 992px) { .page-team-list { background-size: 15%; background-position: 70% 50px; } }
 
 .testimonials-summary { display: flex; flex-wrap: wrap; flex-direction: row; align-items: center; }
 .testimonials-summary .testimonials-image { flex: 0; margin-right: 10px; }
@@ -2510,15 +2510,15 @@ ul.social li a span { font-size: 24px; }
 .testimonials-summary .testimonials-content blockquote { display: block; border-width: 2px 0 0 0; border-style: solid; border-color: #eee; padding: 1.5em 0 0.5em; margin: 1.5em 0; position: relative; }
 .testimonials-summary .testimonials-content blockquote:before { content: "\201C"; position: absolute; top: 0em; left: 50%; transform: translate(-50%, -50%); background: #fff; width: 3rem; height: 2rem; font: 6em/1.08em "PT Sans", sans-serif; color: #635B5B; text-align: center; }
 
-.page-testimonials-list { background-image: url("../images/3.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-testimonials-list { background-image: url("../images/t.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-testimonials-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-testimonials-list { background-size: 85%; background-position: 199px -80px; } }
-@media (min-width: 992px) { .page-testimonials-list { background-size: 30%; background-position: 75% 60px; } }
+@media (min-width: 992px) { .page-testimonials-list { background-size: 15%; background-position: 70% 50px; } }
 
-.page-services-list { background-image: url("../images/4.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
+.page-services-list { background-image: url("../images/e.svg"); background-repeat: no-repeat; background-size: 115%; background-position: 49px -40px; }
 @media (min-width: 576px) { .page-services-list { background-size: 90%; background-position: 159px -40px; } }
 @media (min-width: 768px) { .page-services-list { background-size: 85%; background-position: 199px -80px; } }
-@media (min-width: 992px) { .page-services-list { background-size: 30%; background-position: 75% 60px; } }
+@media (min-width: 992px) { .page-services-list { background-size: 15%; background-position: 70% 50px; } }
 
 .page-services-single { background-color: #635B5B; background-attachment: fixed; background-size: cover; }
 

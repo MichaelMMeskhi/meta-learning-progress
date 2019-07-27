@@ -1,5 +1,5 @@
 .page-services-list {
-  background-image: url('../images/4.svg');
+  background-image: url('../images/e.svg');
   background-repeat: no-repeat;
   background-size: 115%;
   background-position: 49px -40px;
@@ -12,7 +12,7 @@
     background-position: 199px -80px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 30%;
-    background-position: 75% 60px;
+    background-size: 15%;
+    background-position: 70% 50px;
   }
 }
