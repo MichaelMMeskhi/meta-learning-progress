@@ -1,4 +1,5 @@
 # Tracking Progress in Meta-Learning
+[![Visits Badge](https://badges.pufler.dev/visits/{michaelmmeskhi}/{MtL-Progress-github.io})
 
 ![Metaleanring](./resources/img/logo.png)
 
